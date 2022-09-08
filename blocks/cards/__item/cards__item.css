@@ -1,0 +1,12 @@
+.cards__item {
+    display: grid;
+    grid-template-areas:
+        "image title"
+        "image text";
+    grid-column-gap: 40px;
+    padding-bottom: 80px;
+    max-width: 1200px;
+    margin-left: 50px;
+  }
+
+  

@@ -1,0 +1,14 @@
+
+
+.header {
+    height: 100vh;
+    min-height: 600px;
+    max-height: 656px;
+    
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 100px;
+  }
+  

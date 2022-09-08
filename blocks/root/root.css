@@ -1,0 +1,9 @@
+.root {
+    min-width: 700px;
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background: #93928e;
+  background: linear-gradient(to bottom, #93928e, #f0ebeb);
+  }
+  
