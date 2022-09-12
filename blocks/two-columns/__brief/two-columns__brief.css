@@ -12,4 +12,8 @@
     flex-direction: column;
   }
 
-  
+  @media (max-width: 767px) {
+    .two-columns__brief {
+      margin-bottom: 30px;
+    }
+  }

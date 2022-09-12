@@ -6,3 +6,9 @@
     object-fit: cover;
     grid-area: image;
   }
+
+  @media (max-width: 767px) {
+    .cards__image {
+      margin: 10px auto 23px 0; 
+    }
+  }

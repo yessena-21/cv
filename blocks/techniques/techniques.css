@@ -5,3 +5,8 @@
     margin: 100px auto 100px;
   }
   
+  @media (max-width: 767px) {
+    .techniques {
+      margin: 50px auto;
+    }
+  }

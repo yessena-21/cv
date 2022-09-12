@@ -7,3 +7,9 @@
   color: #FFFFFF;
 
   }
+  @media (max-width: 767px) {
+    .footer__author {
+      text-align: left;
+      
+    }
+  }
